@@ -1,6 +1,6 @@
-hungry=input("do you want to eat pizza with fourme d'ambert?")
+hungry=input("do you want to eat pizza with  Emental ?")
 if hungry == "yes":
-    print("ok you 'll eat pizza  fourme d'ambert")
+    print("ok you 'll eat pizza  with Emental")
     
 else:
     thirsty = input("are you thirsty  you'll drink water  !!?")
